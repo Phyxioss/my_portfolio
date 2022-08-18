@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.dcf5b413.css",
+    "main.js": "/my_portfolio/static/js/main.cd60c9ad.js",
+    "static/media/mock_firehol.png": "/my_portfolio/static/media/mock_firehol.6e7789b4e046d6fff58d.png",
+    "static/media/self.png": "/my_portfolio/static/media/self.ff85edc05f2898541c74.png",
+    "index.html": "/my_portfolio/index.html",
+    "main.dcf5b413.css.map": "/my_portfolio/static/css/main.dcf5b413.css.map",
+    "main.cd60c9ad.js.map": "/my_portfolio/static/js/main.cd60c9ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf5b413.css",
+    "static/js/main.cd60c9ad.js"
+  ]
+}
